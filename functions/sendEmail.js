@@ -2,7 +2,7 @@ const {https} = require("firebase-functions");
 const {createTransport} = require("nodemailer");
 
 const sender = "quoracub@gmail.com";
-const password = "Savita0407&";
+const password = "*********";
 const recipient = "gaja9273@colorado.edu";
 
 const transporter = createTransport({
