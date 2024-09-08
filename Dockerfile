@@ -6,7 +6,7 @@ COPY . .
 
 RUN yarn build
 
-FROM nginx:alpine
+FROM nginx:1-alpine3.20
 
 WORKDIR usr/share/nginx/html
 
