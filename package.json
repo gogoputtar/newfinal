@@ -14,7 +14,7 @@
     "cors": "^2.8.5",
     "dotenv": "^10.0.0",
     "express": "^4.17.1",
-    "firebase": "^8.10.0",
+    "firebase": "^10.9.0",
     "firebase-tools": "^9.23.1",
     "gmail": "^0.5.0",
     "json-server": "^0.17.0",
